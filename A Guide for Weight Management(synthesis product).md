@@ -65,25 +65,26 @@ This structure helps naturally control portions while ensuring nutritional compl
 
 ### Getting Started with a Meal Plan (App)
 
-Many people looking to lose weight are not sure how to start which creates hesitation in even starting to make the changes. This section provides meal planning templates which can be customized to empower individuals to take action.
+Many people looking to lose weight are not sure how to start which creates hesitation in even starting to make the changes. This section provides meal planning templates which can be customized to emphasize certain needs, in this case weight loss. A list of foods and recipes can be auto generated providing plant based meals, vegetarian, mediterranean diet, and more. 
+
 
 **Source**: [Eat This Much — Meal-planning app](https://www.eatthismuch.com/) (Mediterranean & plant-forward templates)
 
 ### Creating Recipes (Plant-Based Approach)
 
-People who are overweight struggle with over-eating and eat many processed foods with excess fat and many carbohydrates. This section covers a collection of whole-foods, plant-forward recipes and meal plans.
+People who are overweight struggle with over-eating and eat many processed foods with excess fat and many carbohydrates. This section covers a collection of whole-foods, plant-forward recipes, meal plans, and articles that align with anti-inflammatory and weight loss dietary principles. People also struggle with creating quick and healthy meals, this section covers hands-on, tested recipes and weekly plans make it easier for home cooks to adopt nutrient-dense, minimally processed eating patterns.
 
 **Source**: [Forks over Knives - Recipe Database and Lifestyle Site](https://www.forksoverknives.com/)
 
 ### Overcoming Food Cravings and Staying Satiated
 
-Individuals who are overweight and are looking to lose it, are often concerned with how they'll deal with food cravings. This section covers the food groups one should consider eating in order to stay satiated.
+Individuals who are overweight and are looking to lose it, are often concerned with how they’ll deal with food cravings. This section covers the food groups one should consider eating in order to stay satiated throughout the day and not give in to cravings. Foods to keep in mind when creating a new satiating diet include whole grains (rice, whole wheat bread and pasta), foods high in fiber like fruits and vegetables, and lastly eating foods with healthy fats like fatty fish, salmon, avocado, and a variety of nuts.
+
 
 **Source**: [Harvard T.H. Chan School of Public Health — The Nutrition Source](https://nutritionsource.hsph.harvard.edu/foods-that-fight-inflammation/)
 
 ### The Mediterranean Diet Foundation
-
-The Mediterranean diet is a well-researched dietary pattern emphasizing whole grains, fruits, vegetables, legumes, nuts, olive oil, and moderate fish consumption. This approach is consistently ranked among the healthiest diets globally.
+The Mediterranean diet is a well-researched dietary pattern emphasizing whole grains, fruits, vegetables, legumes, nuts, olive oil, and moderate fish consumption. This approach is consistently ranked among the healthiest diets and is supported by decades of cardiovascular research. For weight management, the Mediterranean diet promotes satiety through fiber-rich foods and healthy fats while naturally reducing processed foods. The emphasis on food quality over calorie counting makes it sustainable for long-term weight loss without feelings of deprivation.
 
 ## Key Takeaways When Starting Your New Diet
 
